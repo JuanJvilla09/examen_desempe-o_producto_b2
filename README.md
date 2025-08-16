@@ -3,7 +3,7 @@
 
 ## Descripción
 
-Este proyecto está desarrollado con **Spring Boot** y utiliza **JPA/Hibernate** para la persistencia de datos en una base relacional MySQL. 
+Este proyecto está desarrollado con **Spring Boot** y utiliza **JPA/Hibernate** para la persistencia de datos en una base relacional MySQL. Con gestor de dependecias de Gradle
 
 El modelo incluye las entidades principales:
 
