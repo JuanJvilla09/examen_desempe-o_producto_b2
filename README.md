@@ -99,6 +99,7 @@ public enum TipoUsuario {
     Becado,
     Egresado
 ```
+<img width="1006" height="479" alt="image" src="https://github.com/user-attachments/assets/53ed667f-e305-4bfa-97bd-af505a1fa304" />
 
 
 
